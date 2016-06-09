@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0-*",
+  "dependencies": {
+    "NetStandard.Library": "1.0.0-rc2-*"
+  },
+  "frameworks": {
+    "netstandard1.5": {
+      "imports": "dnxcore50"
+    }
+  }
+}
